@@ -98,7 +98,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["shanshu1.cn"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["shanshui.cc"];
 pub const RS_PUB_KEY: &str = "mKumC+hJlHyFwGDb0yg7ZUq4ltVgWZaqOREvjfT4OKA=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
